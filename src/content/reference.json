@@ -1,0 +1,311 @@
+{
+  "settings": {
+    "name": "BrightSmile Dental",
+    "tagline": "Family & general dentistry",
+    "phone": "(03) 9123 4567",
+    "email": "hello@brightsmile.example",
+    "address": "18 Harbourview Parade, Brookfield VIC 3050",
+    "hours": [
+      [
+        "Monday - Thursday",
+        "8:00am - 6:00pm"
+      ],
+      [
+        "Friday",
+        "8:00am - 5:00pm"
+      ],
+      [
+        "Saturday",
+        "9:00am - 1:00pm"
+      ],
+      [
+        "Sunday",
+        "Closed"
+      ],
+      [
+        "Public holidays",
+        "Closed"
+      ]
+    ],
+    "heroTitle": "Dentistry that feels calm, clear and genuinely unhurried.",
+    "heroText": "A small Brookfield practice built around longer appointments and plain-language explanations - so you always know what is happening and why."
+  },
+  "pages": {
+    "about": "<p>BrightSmile Dental is a small practice built around a simple idea: people should understand what is happening with their teeth before anything gets done to them.</p>\n<p>That means longer appointments than the industry average, plain-language explanations, and being told honestly when something does not need treating yet. We would rather see you twice a year for a clean and a chat than four times for problems we could have prevented.</p>\n<h2>How we work</h2>\n<p>We are a team of four clinicians working from a single practice in Brookfield. We keep our patient list small enough that we remember names, and we do not sell treatment you do not need. Where a specialist is the right call, we will say so and refer you on.</p>\n<h2>Who we look after</h2>\n<p>Families, older patients who appreciate unhurried appointments, and anyone who has had a bad experience at another practice. Nervous patients are welcome and never treated as an inconvenience - tell us when you book and we will make sure your first visit is as calm as we can manage.</p>",
+    "patient-info": "<h2>Before your first visit</h2>\n<p>Bring your Medicare card, any health fund details and a list of any medications you take. If you are on blood thinners or have a condition that affects dental treatment, please tell us when you book rather than at the appointment.</p>\n<h2>Payment</h2>\n<p>We ask for payment on the day of treatment. We accept cash, card and bank transfer, and we can claim your private health fund rebate immediately. Treatment plans over a certain value can be split into instalments - ask us.</p>\n<h2>Cancelling or running late</h2>\n<p>We ask for at least two hours notice where you can. Short-notice cancellations may incur a fee, but we would always rather reschedule you than turn you away.</p>\n<h2>After hours and emergencies</h2>\n<p>If you have swelling, a fever or difficulty swallowing or breathing, do not wait for our next opening - seek urgent medical care. For broken teeth and severe pain, call us. We keep same-day slots aside and will tell you honestly if we cannot help today.</p>\n<h2>Accessibility</h2>\n<p>The practice is step-free with an accessible bathroom. If you need anything specific in place before your appointment, let us know and we will arrange it.</p>"
+  },
+  "items": [
+    {
+      "slug": "elena-marsh",
+      "title": "Dr Elena Marsh",
+      "excerpt": "Leads the clinical team, with a focus on restorative and cosmetic treatment.",
+      "content": "<p>Elena leads the clinical team and focuses on restorative and cosmetic dentistry. Her approach is deliberately unhurried: appointments are booked with enough time to explain what is happening, and she would rather a patient asks a question three times than leaves unsure.</p>\n<p>Outside the clinic she is usually found somewhere near water, which is where she learned to surf badly but confidently.</p>",
+      "role": "Principal Dentist",
+      "qualifications": "BDSc, Grad Dip Restorative Dentistry",
+      "interests": [
+        "Restorative and cosmetic dentistry",
+        "Anxiety management",
+        "Digital treatment planning"
+      ],
+      "icon": "",
+      "benefits": [],
+      "expect": [],
+      "suitable": [],
+      "duration": "",
+      "feeNote": "",
+      "team": true
+    },
+    {
+      "slug": "general-dentistry",
+      "title": "General Dentistry",
+      "excerpt": "Check-ups, cleanings, fillings and the ongoing care that keeps mouths healthy between visits.",
+      "content": "<p>General dentistry covers the routine care most people need to keep their teeth and gums healthy: examinations, professional cleaning, fillings, gum assessments and advice on looking after your mouth at home.</p>\n<p>We focus on catching small problems early, when they are simplest and most comfortable to treat, and on explaining what we find in plain language before deciding anything together.</p>",
+      "role": "Check-ups, cleanings, fillings and the ongoing care that keeps mouths healthy between visits.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "tooth",
+      "benefits": [
+        "Regular check-ups to spot decay, gum inflammation and wear early",
+        "Professional cleaning to remove plaque you cannot reach at home",
+        "Fillings matched to your natural tooth colour",
+        "Clear advice on brushing, flossing and diet",
+        "Treatment plans explained before anything begins"
+      ],
+      "expect": [
+        "Tell us what has been bothering you, if anything",
+        "A visual examination of your teeth and gums",
+        "X-rays only when they are clinically useful",
+        "A discussion of findings and your options",
+        "A clear plan for the next visit"
+      ],
+      "suitable": [
+        "Adults and children who visit for regular care",
+        "Anyone due for a check-up or clean",
+        "Patients with sensitivity, decay or gum discomfort",
+        "First-time patients having a full assessment"
+      ],
+      "duration": "30 - 45 minutes",
+      "feeNote": "Fees are discussed after your assessment and before any treatment is booked.",
+      "team": false
+    },
+    {
+      "slug": "cosmetic-dentistry",
+      "title": "Cosmetic Dentistry",
+      "excerpt": "Veneers, composite bonding and smile design planned around your face, not a template.",
+      "content": "<p>Cosmetic dentistry is about changing the appearance of your teeth in a way that still looks natural and suits your face. We start by talking about what you would like to change, then look at what is realistically achievable.</p>\n<p>Nothing is done without a discussion of options, maintenance and longevity. If leaving your teeth as they are would suit you better, we will say so.</p>",
+      "role": "Veneers, composite bonding and smile design planned around your face, not a template.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "sparkle",
+      "benefits": [
+        "A smile shape designed around your features",
+        "Veneers and composite bonding to correct shape, shade or spacing",
+        "Shade matching so results blend with natural teeth",
+        "Digital previews of the planned result",
+        "Advice on caring for and maintaining the work"
+      ],
+      "expect": [
+        "A conversation about the changes you are considering",
+        "Photographs and an examination of your teeth",
+        "A discussion of options, including doing nothing",
+        "A written plan with costs and maintenance",
+        "Treatment scheduled in manageable stages"
+      ],
+      "suitable": [
+        "Adults with chipped, stained, worn or uneven teeth",
+        "Anyone considering veneers or bonding",
+        "Smiles that look uneven when smiling or in photos",
+        "Teeth that have been ground down over time"
+      ],
+      "duration": "One to several appointments",
+      "feeNote": "A written quote is provided before treatment begins.",
+      "team": false
+    },
+    {
+      "slug": "marcus-hale",
+      "title": "Dr Marcus Hale",
+      "excerpt": "General and emergency care, with a particular interest in nervous patients.",
+      "content": "<p>Marcus handles routine treatment and same-day emergencies. He is known for describing exactly what he is about to do before he does it, which matters to the patients who find dental visits difficult.</p>\n<p>He also runs the clinic's prevention programme for children, which focuses on making a first visit something they look forward to.</p>",
+      "role": "Dentist",
+      "qualifications": "BDSc",
+      "interests": [
+        "General and emergency dentistry",
+        "Children's dental health",
+        "Treatment for dental anxiety"
+      ],
+      "icon": "",
+      "benefits": [],
+      "expect": [],
+      "suitable": [],
+      "duration": "",
+      "feeNote": "",
+      "team": true
+    },
+    {
+      "slug": "priya-nair",
+      "title": "Dr Priya Nair",
+      "excerpt": "Plans and places implants, and manages the longer surgical stages.",
+      "content": "<p>Priya completed her master's in implant dentistry and now handles the surgical and planning stages of implant treatment. She works closely with the principal dentist on restorative cases so the finished tooth fits the rest of the bite properly.</p>\n<p>She is meticulous about aftercare and will spend as long as it takes going through the instructions that follow surgery.</p>",
+      "role": "Dentist",
+      "qualifications": "BDSc, MSc Implant Dentistry",
+      "interests": [
+        "Implant planning and surgery",
+        "Bone grafting",
+        "Digital scanning and guided placement"
+      ],
+      "icon": "",
+      "benefits": [],
+      "expect": [],
+      "suitable": [],
+      "duration": "",
+      "feeNote": "",
+      "team": true
+    },
+    {
+      "slug": "teeth-whitening",
+      "title": "Teeth Whitening",
+      "excerpt": "Take-home and in-chair whitening, with shade checks before and after.",
+      "content": "<p>Whitening lightens the natural colour of your teeth. It works on staining from food, drinks and tobacco, but it does not change the colour of fillings, crowns or veneers.</p>\n<p>We will check that your gums and teeth are healthy before starting, and we will be honest about the shade change you can reasonably expect.</p>",
+      "role": "Take-home and in-chair whitening, with shade checks before and after.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "smile",
+      "benefits": [
+        "A shade assessment before treatment starts",
+        "Take-home trays or an in-chair session",
+        "Products chosen for your teeth and sensitivity",
+        "Aftercare guidance to protect the result",
+        "A maintenance plan"
+      ],
+      "expect": [
+        "An examination to confirm whitening is suitable",
+        "Trays made for you, or an in-chair session",
+        "A shade check to compare before and after",
+        "Advice on maintaining the result"
+      ],
+      "suitable": [
+        "Adults with natural staining from coffee, tea or wine",
+        "Those preparing for an event or special occasion",
+        "Anyone whose natural tooth shade has dulled"
+      ],
+      "duration": "30 - 60 minutes, or trays to use at home",
+      "feeNote": "Whitening is quoted separately and is not usually covered by health funds.",
+      "team": false
+    },
+    {
+      "slug": "dental-implants",
+      "title": "Dental Implants",
+      "excerpt": "A considered, multi-stage option for replacing a missing tooth.",
+      "content": "<p>An implant is a small titanium post placed in the jawbone to support a replacement tooth. It is one of the longer treatments in dentistry, usually involving a planning appointment, the placement itself, healing time, and then the final fitting.</p>\n<p>Not everyone is a suitable candidate. Bone density, gum health and general health all matter, and we will talk you through the requirements and alternatives before you decide.</p>",
+      "role": "A considered, multi-stage option for replacing a missing tooth.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "shield",
+      "benefits": [
+        "Replaces a missing tooth without relying on adjacent teeth",
+        "Designed to blend with your natural teeth",
+        "Reviewed and maintained at regular check-ups",
+        "Long-term planning built in from the start"
+      ],
+      "expect": [
+        "A full assessment, including scans and X-rays",
+        "A discussion of whether an implant suits you",
+        "The placement procedure under local anaesthetic",
+        "Healing and follow-up over several months",
+        "The final fitting and aftercare plan"
+      ],
+      "suitable": [
+        "Adults who have lost one or more teeth",
+        "Those with healthy gums and adequate bone",
+        "People seeking a long-term replacement option"
+      ],
+      "duration": "Several months from start to finish",
+      "feeNote": "Implant treatment is quoted after assessment and staged over time.",
+      "team": false
+    },
+    {
+      "slug": "tomas-berg",
+      "title": "Tomas Berg",
+      "excerpt": "Runs hygiene appointments and is the person most patients see most often.",
+      "content": "<p>Tomas is the clinic's hygienist and handles scale and polish appointments, gum health and prevention advice. Because hygiene visits repeat more often than anything else here, he places a lot of importance on making them easy to attend and genuinely useful.</p>\n<p>He will always tell you how your gums look and what changed since last time, in numbers if you want the detail.</p>",
+      "role": "Hygienist",
+      "qualifications": "Cert. Oral Health Practitioner",
+      "interests": [
+        "Gum health and prevention",
+        "Periodontal maintenance",
+        "Mouth care for older patients"
+      ],
+      "icon": "",
+      "benefits": [],
+      "expect": [],
+      "suitable": [],
+      "duration": "",
+      "feeNote": "",
+      "team": true
+    },
+    {
+      "slug": "emergency-dentistry",
+      "title": "Emergency Dentistry",
+      "excerpt": "Same-day appointments for pain, swelling, broken teeth and accidents.",
+      "content": "<p>Dental pain tends to get worse rather than better, so we keep slots available for urgent problems. If you are in pain, have swelling, have broken a tooth or had an accident, call us and we will find you the earliest suitable time.</p>\n<p>If you have facial swelling, a fever, difficulty swallowing or breathing, or trauma that involves the face, treat this as urgent and seek emergency medical care.</p>",
+      "role": "Same-day appointments for pain, swelling, broken teeth and accidents.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "clock",
+      "benefits": [
+        "Appointments kept aside for urgent problems",
+        "Direct advice on whether you need to be seen",
+        "Pain relief as the first step",
+        "Same-day slots released for cancellations"
+      ],
+      "expect": [
+        "A phone call where we ask what is happening",
+        "An appointment at the earliest suitable time",
+        "An examination and X-rays if needed",
+        "Pain relief and temporary treatment where possible",
+        "A plan for completing the repair"
+      ],
+      "suitable": [
+        "Severe toothache or facial pain",
+        "Broken or knocked-out teeth",
+        "Dental abscess or swelling",
+        "Lost crowns, fillings or temporary restorations"
+      ],
+      "duration": "Same day where possible",
+      "feeNote": "Emergency assessments are billed at the standard consultation fee.",
+      "team": false
+    },
+    {
+      "slug": "preventive-care",
+      "title": "Preventive Care",
+      "excerpt": "Check-ups, hygiene and advice that aim to stop problems before they start.",
+      "content": "<p>Preventive care is the least glamorous part of dentistry and usually the most useful. Regular examinations and hygiene appointments catch problems while they are still small, which means simpler and more comfortable treatment.</p>\n<p>We also talk about the practical side of looking after your teeth: how to brush effectively, when to replace a toothbrush, what a good daily routine looks like, and where diet makes a difference.</p>",
+      "role": "Check-ups, hygiene and advice that aim to stop problems before they start.",
+      "qualifications": "",
+      "interests": [],
+      "icon": "heart",
+      "benefits": [
+        "Early detection of decay and gum disease",
+        "Tailored hygiene advice for your own mouth",
+        "Guidance on brushing technique and products",
+        "Discussion of diet and habits that affect teeth",
+        "A record of your oral health over time"
+      ],
+      "expect": [
+        "An examination of teeth, gums and soft tissues",
+        "A scale and polish where needed",
+        "Notes on anything we have noticed",
+        "Plain-language advice you can act on",
+        "A suggested interval for your next visit"
+      ],
+      "suitable": [
+        "Everyone - children and adults alike",
+        "Anyone prone to decay or gum problems",
+        "Patients who want to avoid the emergency chair"
+      ],
+      "duration": "20 - 40 minutes",
+      "feeNote": "Check-ups and hygiene visits are usually claimable through private health funds.",
+      "team": false
+    }
+  ]
+}
