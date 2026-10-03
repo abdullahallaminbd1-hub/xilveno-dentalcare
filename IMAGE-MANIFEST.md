@@ -20,7 +20,9 @@ The concrete `service_<slug>` slots are `service_general-dentistry`, `service_co
 
 The Worker keeps the slot-to-R2 object mapping in the dedicated D1 `image_slots` table and serves each image through `/media/<slot>`. The UI markup references the slot, not an R2 URL. This leaves templates unchanged when image files are replaced.
 
-From this project directory, run:
+Use the single central Admin at `https://xilveno.shop/admin/`. Choose **BrightSmile Dental**, then open **Images** to manage the approved slots and **Media Library** to manage uploaded BrightSmile media. Choose an image for a slot, upload a replacement, edit its alt text, or remove it to restore the approved fallback artwork. The central Admin writes only to BrightSmile's dedicated D1/R2 resources; no separate BrightSmile Admin is provided.
+
+For local development only, the image helper is also available:
 
 ```powershell
 npm run image -- set home_hero "C:\path\to\hero.webp"

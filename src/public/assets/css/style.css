@@ -256,6 +256,17 @@ li { margin-bottom: 0.4rem; }
 .bs-card__icon {
 	display: inline-flex;
 	align-items: center;
+	justify-content: center;
+	width: 3.25rem;
+	height: 3.25rem;
+	margin-bottom: 1.1rem;
+	color: var(--bs-primary);
+	background: var(--bs-bg-tint);
+	border: 1px solid var(--bs-primary-soft);
+	border-radius: var(--bs-r);
+	flex: 0 0 auto;
+}
+
 /* ==========================================================================
  * BADGES / PILLS
  * ==========================================================================
@@ -333,7 +344,7 @@ li { margin-bottom: 0.4rem; }
 }
 
 .screen-reader-text:focus,
-.bs-skip-link:focus {
+.bs-skip-link:focus-visible {
 	position: fixed !important;
 	top: 0.75rem; left: 0.75rem;
 	width: auto; height: auto;
@@ -366,18 +377,8 @@ li { margin-bottom: 0.4rem; }
 }
 .js [data-reveal].is-revealed { opacity: 1; transform: none; will-change: auto; }
 .no-js [data-reveal] { opacity: 1; transform: none; }
-	justify-content: center;
-	width: 3.25rem;
-	height: 3.25rem;
-	margin-bottom: 1.1rem;
-	color: var(--bs-primary);
-	background: var(--bs-bg-tint);
-	border: 1px solid var(--bs-primary-soft);
-	border-radius: var(--bs-r);
-	flex: 0 0 auto;
-}
-.bs-card__icon svg { width: 1.6rem; height: 1.6rem; }
 
+.bs-card__icon svg { width: 1.6rem; height: 1.6rem; }
 .bs-card__title { margin: 0 0 0.55rem; font-size: var(--bs-fs-lg); }
 .bs-card__text { margin: 0 0 1.1rem; color: var(--bs-muted); font-size: var(--bs-fs-sm); }
 .bs-card__foot { margin-top: auto; padding-top: 0.35rem; }

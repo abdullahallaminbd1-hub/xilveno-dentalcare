@@ -425,6 +425,8 @@ body.bs-drawer-open { overflow: hidden; }
 	display: flex;
 	flex-direction: column;
 	height: 100%;
+	min-width: 0;
+	margin: 0;
 	padding: 1.75rem;
 	background: #fff;
 	border: 1px solid var(--bs-line);
@@ -573,6 +575,10 @@ body.bs-drawer-open { overflow: hidden; }
 .bs-hours th { font-weight: 600; color: var(--bs-ink); }
 .bs-hours td { color: var(--bs-muted); text-align: right; }
 .bs-hours tr:last-child th, .bs-hours tr:last-child td { border-bottom: 0; }
+
+.bs-footer .bs-hours { table-layout: fixed; font-size: 0.75rem; }
+.bs-footer .bs-hours th { color: #cbd5e1; white-space: nowrap; }
+.bs-footer .bs-hours td { color: #94a3b8; white-space: nowrap; }
 
 /* Map placeholder */
 .bs-map {

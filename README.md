@@ -38,7 +38,7 @@ Appointment requests are validated in the browser and Worker, protected by a hid
 
 ## Media
 
-No final photographs are included in the approved reference. Its original generated artwork remains the image fallback. See [IMAGE-MANIFEST.md](./IMAGE-MANIFEST.md) for all approved slots, intended use, and recommended dimensions. Replace a production slot without changing templates by running `npm run image -- set <slot> <image-path>`; restore its original fallback with `npm run image -- remove <slot>`. Append `--local` to either command to use Wrangler's local D1/R2 stores for development. The helper accepts JPEG, PNG, or WebP, validates the slot and file signature, and updates the dedicated R2 object and D1 mapping.
+No final photographs are included in the approved reference. Its original generated artwork remains the image fallback. See [IMAGE-MANIFEST.md](./IMAGE-MANIFEST.md) for all approved slots, intended use, and recommended dimensions. Production image management is through the single central Admin at `https://xilveno.shop/admin/` → **BrightSmile Dental** → **Images** or **Media Library**. This updates only BrightSmile's dedicated D1/R2. The `npm run image` helper is for local development only.
 
 ## Source of truth
 
